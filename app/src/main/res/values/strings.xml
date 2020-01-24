@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Background Location</string>
+    <string name="latitudeLabel">Latitude - </string>
+    <string name="longitudeLabel">Longitude - </string>
+    <string name="dateTimeLabel">Date Time -</string>
+    <string name="noData">No Data Found</string>
+    <string name="startServiceMsg">Click on \"Start\" button to start service</string>
+    <string name="stop">Stop Background Service</string>
+    <string name="clear">Clear Data</string>
+    <string name="service_stopped">Location Service stopped</string>
+    <string name="start">Location Service Start</string>
+    <string name="service_start">Location Service Started</string>
+    <string name="permission">Location permission required to get your location.</string>
+    <string name="gpsDisabled">Your GPS is disabled. Do you want to enable it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+</resources>
